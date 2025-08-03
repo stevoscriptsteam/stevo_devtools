@@ -1,0 +1,3 @@
+return {
+	adminGroup = 'group.admin'
+}
